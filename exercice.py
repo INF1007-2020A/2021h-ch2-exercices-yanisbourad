@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def majuscule(mot):
-    majuscule(mot)=chr(ord(mot))
+    majuscule=chr(ord(mot))
     return mot
 
 if __name__ == '__main__':
